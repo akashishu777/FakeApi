@@ -2,7 +2,7 @@
   "profile": {
     "firstName": "JS",
     "lastName": "Engineer",
-    "userName": "JSEngineer",
+    "email": "JSEngineer@test.com",
     "phoneNumber": "+19098686687"
   },
   "appointments": [
