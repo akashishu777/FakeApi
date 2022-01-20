@@ -12,7 +12,8 @@
       "pharmacyName": "Pharmacy Name",
       "dateTime": "10th March 2022 10:00 AM",
       "reason": "Fever",
-      "status": "pending"
+      "status": "pending",
+      "recomendation": []
     },
     {
       "appointmentId": "2",
@@ -20,7 +21,17 @@
       "pharmacyName": "Pharmacy Name",
       "dateTime": "10th March 2022 10:00 AM",
       "reason": "Cold Cough",
-      "status": "done"
+      "status": "done",
+      "recomendation": [
+        {
+          "drugName": "Benadryl",
+          "mg": ""
+        },
+        {
+          "drugName": "Vicks",
+          "mg": ""
+        }
+      ]
     }
   ]
 }
