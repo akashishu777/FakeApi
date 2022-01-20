@@ -5,9 +5,9 @@
     "userName": "JSEngineer",
     "phoneNumber": "+19098686687"
   },
-  "bookings": [
+  "appointments": [
     {
-      "bookingId": "1",
+      "appointmentId": "1",
       "parmacyId": "85846",
       "pharmacyName": "Pharmacy Name",
       "dateTime": "10th March 2022 10:00 AM",
@@ -15,7 +15,7 @@
       "status": "pending"
     },
     {
-      "bookingId": "2",
+      "appointmentId": "2",
       "parmacyId": "85541",
       "pharmacyName": "Pharmacy Name",
       "dateTime": "10th March 2022 10:00 AM",
