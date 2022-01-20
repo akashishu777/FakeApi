@@ -1,0 +1,26 @@
+{
+  "profile": {
+    "firstName": "JS",
+    "lastName": "Engineer",
+    "userName": "JSEngineer",
+    "phoneNumber": "+19098686687"
+  },
+  "bookings": [
+    {
+      "bookingId": "1",
+      "parmacyId": "85846",
+      "pharmacyName": "Pharmacy Name",
+      "dateTime": "10th March 2022 10:00 AM",
+      "reason": "Fever",
+      "status": "pending"
+    },
+    {
+      "bookingId": "2",
+      "parmacyId": "85541",
+      "pharmacyName": "Pharmacy Name",
+      "dateTime": "10th March 2022 10:00 AM",
+      "reason": "Cold Cough",
+      "status": "done"
+    }
+  ]
+}
